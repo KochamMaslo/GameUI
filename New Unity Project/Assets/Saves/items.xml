@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ItemDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Item id="0">
+      <Name>Duzy miecz</Name>
+      <Damage>12</Damage>
+      <Durability>120</Durability>
+    </Item>
+    <Item id="1">
+      <Name>Mala tarcza</Name>
+      <Damage>0</Damage>
+      <Durability>600</Durability>
+    </Item>
+    <Item id="2">
+      <Name>Slaby kolczan</Name>
+      <Damage>20</Damage>
+      <Durability>300</Durability>
+    </Item>
+    <Item id="3">
+      <Name>Ciezka kolczuga</Name>
+      <Damage>0</Damage>
+      <Durability>900</Durability>
+    </Item>
+    <Item id="4">
+      <Name>Wielka pulapka</Name>
+      <Damage>1100</Damage>
+      <Durability>10000</Durability>
+    </Item>
+    <Item id="5">
+      <Name>Poczwarna swieca</Name>
+      <Damage>1</Damage>
+      <Durability>12</Durability>
+    </Item>
+    <Item id="6">
+      <Name>Dwureczny topor</Name>
+      <Damage>123</Damage>
+      <Durability>532</Durability>
+    </Item>
+    <Item id="7">
+      <Name>Krzeslo gracza</Name>
+      <Damage>200</Damage>
+      <Durability>111</Durability>
+    </Item>
+    <Item id="8">
+      <Name>Poduszka spiocha</Name>
+      <Damage>1</Damage>
+      <Durability>1</Durability>
+    </Item>
+  </Items>
+</ItemDatabase>
